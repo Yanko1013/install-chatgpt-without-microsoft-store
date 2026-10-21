@@ -18,10 +18,10 @@ Choose the package that matches your PC: arm64 or x64. Mine is x64.
 >
 > If you get a `Microsoft.WindowsAppRuntime` error, you may need to install or update the [Windows App SDK](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads-archive).
 
-Get the local path of the package you downloaded, open `Windows PowerShell`, replace `{your file path}` below with it, then run the command:
+Get the local path of the package you downloaded, open `Windows PowerShell`, replace `{your_file_path}` below with it, then run the command:
 
 ```powershell
-Add-AppxPackage -Path "{your file path}"
+Add-AppxPackage -Path "{your_file_path}"
 ```
 
 ## Verify the installation
