@@ -1,8 +1,8 @@
-# Install ChatGpt Without Microsoft Store
+# Install ChatGPT Without Microsoft Store
 
 October 21, 2026 & 2026-10-21
 
-Install or Download ChatGpt(Codex) for Windows Desktop Without Microsoft Store
+Install or Download ChatGPT(Codex) for Windows Desktop Without Microsoft Store
 
 ## Download the MSIX package
 
